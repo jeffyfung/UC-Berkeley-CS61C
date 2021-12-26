@@ -1,3 +1,7 @@
-1. find -name
-2. ps
-3. diff
+1. ls -l -a
+2. mv
+3. chmod
+4. pwd
+5. find -name
+6. ps
+7. diff
