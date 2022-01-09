@@ -1,0 +1,3 @@
+[submodule "proj/sp21-proj1-starter"]
+	path = proj/sp21-proj1-starter
+	url = https://github.com/jeffyfung/sp21-proj1-starter.git
