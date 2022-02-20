@@ -26,8 +26,6 @@ void set_bit(unsigned * x,
 void flip_bit(unsigned * x,
               unsigned n) {
     // YOUR CODE HERE
-    // int32_t isolatedFlippedBit = ~(*x & (1 << n)) & (1 << n);
-    // *x |= isolatedFlippedBit;
     int32_t v = (~(*x) & (1 << n)) >> n;
     set_bit(x, n, v);
 }
